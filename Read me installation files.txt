@@ -1,0 +1,13 @@
+pynacl
+ffmpeg
+discord.py
+youtube_dl
+spotipy
+youtube_search
+
+
+https://github.com/BtbN/FFmpeg-Builds/releases/download/autobuild-2022-04-03-12-32/ffmpeg-N-106490-gbb4e0f6162-linux64-gpl.tar.xz
+
+and then untar this with the command 
+
+tar -xf /home/gitpod/.pyenv/ffmpeg-N-106490-gbb4e0f6162-linux64-gpl.tar.xz
